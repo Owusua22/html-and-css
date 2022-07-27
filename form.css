@@ -1,0 +1,39 @@
+.heading {
+	font-size: 50px;
+	color: maroon;
+	text-align: center;
+
+
+}
+form {
+	background-color: darkorange;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	
+}
+label {
+	color: red;
+	
+
+}
+input {
+	border-color: yellow;
+	border-width: thick; 
+	border-radius: 15px;
+	
+
+
+
+}
+.body {
+	color: lightgreen;
+}
+
+#form-title {
+	font-family: cursive;
+}
+
+#form {
+	font-family: tahoma;
+}

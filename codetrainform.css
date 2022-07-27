@@ -1,0 +1,214 @@
+.body {
+	background-color: #e6e6ff;
+	font-family: roboto,sans-serif;
+	text-align: left;
+
+}
+.form {
+	height: 1850px;
+	width: 600px;
+	margin: auto;
+}
+
+.title-div {
+	height: 220px;
+	width: 550px;
+	background-color: white;
+	margin: 15px;
+	border-radius: 8px;
+	border-top: 8px solid #6666ff;
+	padding: 25px;
+}
+
+
+.required {
+	font-size: 13px;
+	color: red;
+}
+
+.email-div {
+	height: 130px;
+	width: 600px;
+	background-color: white;
+	margin: 15px;
+	border-radius: 8px;
+}
+
+.name-div {
+	height: 130px;
+	width: 600px;
+	background-color: white;
+	margin: 15px;
+	border-radius: 8px;
+}
+
+.number-div {
+	height: 130px;
+	width: 600px;
+	background-color: white;
+	margin: 15px;
+	border-radius: 8px;
+}
+
+.next-div {
+	height: 190px;
+	width: 600px;
+	background-color: white;
+	margin: 15px;
+	border-radius: 8px;
+}
+
+.payment-div{
+	height: 160px;
+	width: 600px;
+	background-color: white;
+	margin: 15px;
+	border-radius: 8px;
+	text-align: left;
+	word-spacing: .5px;
+}
+
+.indication-div {
+	height: 170px;
+	width: 600px;
+	background-color: white;
+	margin: 15px;
+	border-radius: 8px;
+}
+
+
+.location-div {
+	height: 130px;
+	width: 600px;
+	background-color: white;
+	margin: auto;
+	border-radius: 8px;
+	margin-top: 35px; 
+	
+
+
+}
+
+.school-div {
+	height: 130px;
+	width: 600px;
+	background-color: white;
+	margin: auto;
+	border-radius: 8px;
+	margin-top: 15px;
+}
+
+.reason-div {
+	height: 130px;
+	width: 600px;
+	background-color: white;
+	margin: auto;
+	border-radius: 8px;
+	margin-top: 15px;
+}
+
+.how-div {
+	height: 130px;
+	width: 600px;
+	background-color: white;
+	margin: auto;
+	border-radius: 8px;
+	margin-top: 15px;
+}
+
+.name,.number,.email,.reason,.how,.school,.location,.next,.payment,.indication {
+	padding-top: 20px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	font-size: 15px;
+
+}
+
+.input-div {
+	padding-top: 25px;
+	padding-left: 25px;
+
+
+}
+.input-div input {
+	width: 80%;
+	border: 0;
+	outline: 0;
+	border-bottom: 2.5px solid #e6e6ff;
+}
+
+
+
+.sub {
+	height: 20px;
+	width: 10%;
+	border-radius: 5px;
+	font-size: 14px;
+	word-spacing: 4px;
+	font-weight: 540px;
+	border-width: 100px;
+	padding -top: 15px;
+	text-align: center;
+	margin: 10px;
+	color: white;
+	background-color:  #6666ff;
+
+	
+}
+
+.copy {
+	text-align: left;
+	padding-top: 10px;
+	font-weight: 400px;
+}
+.page {
+	text-align: center;
+	border-left: 200px  solid green;
+	border-radius: 140px;
+	border-width: 200px;
+
+}
+.never {
+	font-size: 12px;
+	text-align: left;
+
+}
+
+.terms {
+	text-align: center;
+	font-size: 12px;
+
+}
+.report {
+	text-underline-position: auto;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+.clear {
+	text-align: right;
+	margin-top: 15px;
+}
+
+
+.radio {
+	text-align: left;
+
+}
+
+.my {
+	width: 100%;
+	border: 0;
+	outline: 0;
+	border-top: 2.5px solid #e6e6ff;
+	margin-top: 5px;
+	padding-top:10px; 
+}
+.other {
+	text-align: left;
+	font-size: 12px;
+	padding-top: 2px;
+	padding-left: 25px;
+
+}

@@ -1,0 +1,35 @@
+
+p {
+	color: black; background-color: yellow
+	text-align: left; font: url(<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap" rel="stylesheet">);
+
+
+
+}
+div {
+	color: black
+}
+h1 {
+	color: red; background-color: black
+}
+
+ul {
+	color: blue;
+}
+p{
+	background-color: lemon green;
+
+}
+body {
+	background-image: url(https://media.istockphoto.com/photos/elementary-school-students-in-computer-class-picture-id460765485?k=20&m=460765485&s=612x612&w=0&h=so_6CxYh-0CS9ly6AaSlirtyFmS2YOa119N37ARYajs=);
+	background-size: cover; 
+	background-attachment: fixed;
+}
+body {
+	background-repeat: no-repeat;
+}
+h2 {
+	color: red; background-color: black
+}
